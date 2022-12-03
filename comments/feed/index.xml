@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for News	</title>
-	<atom:link href="https://newstechtimesa.vercel.app/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://newstechtimesa.vercel.app/</link>
+	<atom:link href="https://fkovirala1.vercel.app/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://fkovirala1.vercel.app/</link>
 	<description>News</description>
-	<lastBuildDate>Fri, 02 Dec 2022 19:23:26 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 Dec 2022 11:16:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

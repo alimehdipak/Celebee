@@ -430,8 +430,8 @@ a {
 -------------------------------------------------------------- */
 @font-face {
   font-family: 'Genericons';
-  src: url("https://newstechtimesa.vercel.app/wp-content/themes/blogsquare/genericons/font/genericons-regular-webfont.eot");
-  src: url("https://newstechtimesa.vercel.app/wp-content/themes/blogsquare/genericons/font/genericons-regular-webfont.eot#iefix") format("embedded-opentype"), url("https://newstechtimesa.vercel.app/wp-content/themes/blogsquare/genericons/font/genericons-regular-webfont.woff") format("woff"), url("https://newstechtimesa.vercel.app/wp-content/themes/blogsquare/genericons/font/genericons-regular-webfont.ttf") format("truetype"), url("https://newstechtimesa.vercel.app/wp-content/themes/blogsquare/genericons/font/genericons-regular-webfont.svg#genericonsregular") format("svg");
+  src: url("https://fkovirala1.vercel.app/wp-content/themes/blogsquare/genericons/font/genericons-regular-webfont.eot");
+  src: url("https://fkovirala1.vercel.app/wp-content/themes/blogsquare/genericons/font/genericons-regular-webfont.eot#iefix") format("embedded-opentype"), url("https://fkovirala1.vercel.app/wp-content/themes/blogsquare/genericons/font/genericons-regular-webfont.woff") format("woff"), url("https://fkovirala1.vercel.app/wp-content/themes/blogsquare/genericons/font/genericons-regular-webfont.ttf") format("truetype"), url("https://fkovirala1.vercel.app/wp-content/themes/blogsquare/genericons/font/genericons-regular-webfont.svg#genericonsregular") format("svg");
   font-weight: normal;
   font-style: normal; }
 /* Genericons */
@@ -844,7 +844,7 @@ a {
     text-overflow: ellipsis;
     white-space: nowrap; }
     .breadcrumbs .breadcrumbs-nav a {
-      background: url("https://newstechtimesa.vercel.app/wp-content/themes/blogsquare/assets/img/arrow-right.png") no-repeat right center;
+      background: url("https://fkovirala1.vercel.app/wp-content/themes/blogsquare/assets/img/arrow-right.png") no-repeat right center;
       background-size: 8px 8px;
       color: #999;
       padding-right: 14px;
